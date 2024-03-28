@@ -3,7 +3,7 @@
     position: relative;
     display: flex;
     align-items: center;
-    @media (max-width: 700px) {
+    @media (max-width: 768px) {
         width: 95%;
     }
     .input-box {
@@ -14,6 +14,10 @@
         border: none;
         box-shadow: inset 0 0 5px black;
         transition: ease-in-out 0.2s;
+        @media (max-width: 768px) {
+            font-size: 1.7rem;
+            padding: 0.67rem 2rem;
+        }
     }
     .input-box:focus {
         box-shadow: 0 0 10px 1000px rgb(0, 0, 0, 0.6);
@@ -32,6 +36,10 @@
         font-size: 1.5rem;
         box-shadow: 0 0 10px black;
         transition: ease-in-out 0.2s;
+        @media (max-width: 768px) {
+            width: 2.5rem;
+            height: 2.5rem;
+        }
     }
 
     .input-submit:hover {
