@@ -1,12 +1,13 @@
 @import url("https://fonts.googleapis.com/css2?family=Truculenta:opsz,wght@12..72,100..900&display=swap");
 .main-app {
     background-color: #5356ffe6;
-    width: 100vw;
-    height: 100vh;
+    width: 100%;
+    height: 100%;
     display: flex;
     align-items: center;
     flex-direction: column;
     font-family: "Truculenta", sans-serif;
+    padding-bottom:140%;
     h1 {
         color: white;
         text-transform: uppercase;
