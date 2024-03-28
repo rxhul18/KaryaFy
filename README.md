@@ -10,11 +10,10 @@ Your Simplified Task Management !!
 
 🚀 Built with TypeScript and featuring the power of React-beautiful-dnd, Karyafy offers a seamless drag-and-drop experience for organizing your to-do lists.
 
+## Links
+Deployed on Vercel: https://karyafy.vercel.app/
 ## ScreenShots
 **Interface of Website**
 <img width="1552" alt="image" src="https://github.com/rxhul18/KaryaFy/assets/99045557/5ef3577f-4a52-4cb4-b076-3f27f37ebc86">
 **Example of code to write in Typescript**
 <img width="1552" alt="Screenshot 2024-03-28 at 6 41 30 PM" src="https://github.com/rxhul18/KaryaFy/assets/99045557/5dc697a2-920a-48e3-b419-1cb340fa8f15">
-
-
-## Links
