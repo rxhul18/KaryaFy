@@ -1,0 +1,28 @@
+@media (max-width: 1200px) {
+    .single-todos {
+        width: 40%;
+    }
+}
+
+@media (max-width: 700px) {
+    .input {
+        width: 95%;
+    }
+    .main-todos {
+        width: 95%;
+    }
+    .single-todos {
+        width: 100%;
+    }
+}
+
+.remove {
+    background-color: #e1673c !important;
+}
+.removedragcomplete {
+    background-color: #ff4125 !important;
+}
+
+.drag {
+    box-shadow: 0 0 35px black !important;
+}
